@@ -1,4 +1,4 @@
-### 👋 Hello there :rocket:
+### 👋 Hello there
 
 - 💬 NUB
 - 🔭 I’m currently working on Web Development
