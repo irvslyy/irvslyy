@@ -1,5 +1,1 @@
-### Hi there, I'm Rully 
-
-
-## I'm a Developer!
-
+### Hi there, I'm Rully
