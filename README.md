@@ -21,8 +21,8 @@
 
 ### Hunt On:
 
-[<img align="left" alt="bugcrowd" width="50px" src="https://www.blocksocial.com/wp-content/uploads/2019/07/bugcrowd-logo.jpg" />][hackerone]
-[<img align="left" alt="hackerone" width="50px" src="https://aseantechsec.com/wp-content/uploads/2019/03/hackerone-logo835x396.png" />][bugcrowd]
+[<img align="left" alt="bugcrowd" width="50px" src="https://www.blocksocial.com/wp-content/uploads/2019/07/bugcrowd-logo.jpg" />][bugcrowd]
+[<img align="left" alt="Visual Studio Code" width="50px" src="https://aseantechsec.com/wp-content/uploads/2019/03/hackerone-logo835x396.png" />][hackerone]
 
 <br />
 
@@ -63,6 +63,4 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [hackerone]: https://hackerone.com
-
-
-
+[bugcrowd]: https://bugcrowd.com
