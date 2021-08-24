@@ -1,4 +1,4 @@
-### Hi there, Trademark's Here! 👋
+### Hi there, Irvslyy Here! 👋
 
 ## I'm Yours tools maker, Hunter, and Skater!
 
@@ -26,6 +26,10 @@
 
 <br />
 <br />
+
+## Connect me
+
+lorem ipsum.
 
 ### 📕 Latest Blog Posts
 
