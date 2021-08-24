@@ -32,6 +32,7 @@
 - [LinkedIn](https://linkedin.com/in/rully-irvandi-27946219a/)
 - [Instagram](https://instagram.com/irvslyy23)
 - [Twitter](https://twitter.com/403onyou)
+- [Other Github](https://github.com/trademark007)
 
 
 ### Latest Blog Posts
