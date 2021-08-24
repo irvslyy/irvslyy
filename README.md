@@ -1,6 +1,6 @@
-### Hi there, Irvslyy Here! 👋
+## Hi there, Irvslyy Here! 👋
 
-## I'm Yours tools maker, Hunter, and Skater!
+### I'm Yours tools maker, Hunter, and Skater!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -27,7 +27,7 @@
 <br />
 <br />
 
-## Connect me
+### Connect me
 
 - [LinkedIn](https://linkedin.com/in/rully-irvandi-27946219a/)
 - [Instagram](https://instagram.com/irvslyy23)
@@ -42,9 +42,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://writes.blackhatintelligence.net)
-
----
-
 
 [website]: https://blackhatintelligence.com
 [twitter]: https://twitter.com/403onyou
