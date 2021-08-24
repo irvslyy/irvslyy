@@ -29,9 +29,12 @@
 
 ## Connect me
 
-lorem ipsum.
+- [LinkedIn](https://linkedin.com/in/rully-irvandi-27946219a/)
+- [Instagram](https://instagram.com/irvslyy23)
+- [Twitter](https://twitter.com/403onyou)
 
-### 📕 Latest Blog Posts
+
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Responds from CEO BRI Life](https://writes.blackhatintelligence.net/2021/07/28/responds-from-bri-life-ceo/)
