@@ -43,9 +43,6 @@
 
 ➡️ [more blog posts...](https://writes.blackhatintelligence.net)
 
----
-
-
 [website]: https://blackhatintelligence.com
 [twitter]: https://twitter.com/403onyou
 [instagram]: https://instagram.com/irvslyy23
