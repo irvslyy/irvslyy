@@ -1,4 +1,4 @@
-## Hi there, Irvslyy Here! 👋 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
+## Hi there, Irvslyy Here! 👋
 
 ### I'm Yours tools maker, Hunter, and Skater!
 
